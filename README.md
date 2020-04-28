@@ -1,3 +1,14 @@
-# [CodeWars]()
+# [CodeWars](https://www.codewars.com/)
 
-Repository of all my Katas.
+## Commands
+
+```bash
+npm i && npm t
+```
+
+## Stack
+
+- Prettier
+- ESLint
+- Jest
+- Babel
