@@ -15,5 +15,8 @@
     "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-jest": "^23.8.2",
     "jest": "^25.3.0"
+  },
+  "dependencies": {
+    "ramda": "^0.27.1"
   }
 }
